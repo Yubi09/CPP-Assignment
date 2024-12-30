@@ -1,0 +1,5 @@
+The error is in the line:
+
+avg = getAverage( balance[0], 5 );
+
+To find the average we must pass the balance array in the the getAverage() function
