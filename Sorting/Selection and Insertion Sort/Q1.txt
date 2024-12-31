@@ -1,0 +1,1 @@
+b) In each iteration we find the index of the minimum element in the unsorted part of the array.
