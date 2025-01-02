@@ -1,0 +1,14 @@
+When n = 0: it returns 1
+When n = 1: it returns 1
+
+When n is a power of 2 it returns 1
+
+example of other cases:
+when n = 3:
+n is odd, so the function calls fun(3 / 2) + fun(3 / 2 + 1) = fun(1) + fun(2).
+fun(1) returns 1, and fun(2) returns 1.
+So, the result is 1 + 1 = 2
+when n = 6:
+n is even, so the function calls fun(6 / 2) = fun(3).
+From earlier, we know that fun(3) returns 2.
+So, the result is 2
