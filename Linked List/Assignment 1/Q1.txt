@@ -1,0 +1,1 @@
+4) Depends upon the node being deleted
