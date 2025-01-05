@@ -1,0 +1,3 @@
+int takes 4 bytes
+bool takes 1 byte
+float takes 4 bytes

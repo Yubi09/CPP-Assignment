@@ -1,0 +1,2 @@
+Valid variable names: _FLOAT, FLOAT
+Invalid variable names: 01PWskills, int, You will succeed
