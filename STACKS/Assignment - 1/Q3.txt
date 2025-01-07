@@ -1,0 +1,1 @@
+2. Prints Binary representation of n
